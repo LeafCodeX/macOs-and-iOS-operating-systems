@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "name": "Olympics",
+        "subscribers": 11300000,
+        "media": [
+            {
+                "id": "001",
+                "metadata": {
+                    "title": "Yuzuru Hanyu (JPN) - Gold Medal, Men's Figure Skating, PyeongChang 2018",
+                    "duration": 560,
+                    "uploadDate": "09.03.2018"
+                },
+                "type": "Video",
+                "views": 34772682,
+                "likes": 814703,
+                "comments": 22003
+            },
+            {
+                "id": "002",
+                "metadata": {
+                    "title": "Yuzuru Hanyu performs to Chopin's Ballade No 1 at PyeongChang 2018",
+                    "duration": 422,
+                    "uploadDate": "23.07.2018"
+                },
+                "type": "Video",
+                "views": 7335402,
+                "likes": 160042,
+                "comments": 4158
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "name": "Dua Lipa",
+        "subscribers": 23300000,
+        "media": [
+            {
+                "id": "003",
+                "metadata": {
+                    "title": "Dua Lipa - Houdini (Official Music Video)",
+                    "duration": 188,
+                    "uploadDate": "10.11.2023"
+                },
+                "type": "MusicVideo",
+                "views": 103903853,
+                "likes": 1152222,
+                "comments": 419333
+            }
+        ]
+    }
+]
